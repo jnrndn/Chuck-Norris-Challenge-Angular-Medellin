@@ -1,0 +1,34 @@
+.container{
+    max-width: 55vw;
+    position: absolute;
+    left: 250px;
+    background-color: #59db57;
+    margin: 85px 20px; 
+    border-radius: 10px;
+}
+
+.logo img{
+    width: 100px;
+    margin: 10px 15px;
+}
+
+.content img{
+    position: relative;
+    margin: 0 225px;
+    opacity: 0.5;
+}
+
+blockquote {
+    border: 2px dashed #000;
+    margin-top: 1em;
+    color: #000;
+    opacity: .5;
+    border-radius: 12px;
+    font-family: serif;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+.joke {
+    font-size: 24px;
+}
